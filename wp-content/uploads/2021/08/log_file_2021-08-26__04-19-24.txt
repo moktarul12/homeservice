@@ -1,0 +1,84 @@
+
+---Downloaded files---
+The import files for: Demo2 Elementor Version were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/wp-themes/cleaning-services/ele-demo2
+Data file = /Applications/MAMP/htdocs/wp-themes/cleaning-services/wp-content/plugins/cleaning-services-demo-installer/demo-data/demo_elementor/contents.xml
+Widget file = /Applications/MAMP/htdocs/wp-themes/cleaning-services/wp-content/plugins/cleaning-services-demo-installer/demo-data/demo_elementor/widgets.wie
+Customizer file = /Applications/MAMP/htdocs/wp-themes/cleaning-services/wp-content/plugins/cleaning-services-demo-installer/demo-data/demo_elementor/customize.dat
+Redux files:
+cleaning_services_opt -> /Applications/MAMP/htdocs/wp-themes/cleaning-services/wp-content/plugins/cleaning-services-demo-installer/demo-data/demo_elementor/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "favicon" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Calendar - Archives - Imported
+Categories - Post Categories - Imported
+Tag Cloud - Popular tags - Imported
+
+Services Sidebar : 
+
+Navigation Menu - No Title - Imported
+Text - No Title - Imported
+
+Contact Info : 
+
+Cleaning Contact Box - Contacts - Imported
+
+Footer Column 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer Column 2 : 
+
+Service Custom Menu - Cleaning Services - Imported
+
+Footer Column 3 : 
+
+Custom HTML - Contact Information - Imported
+
+Woo Shop Sidebar : 
+
+Product Categories - Product categories - Imported
+Filter Products by Price - Filter by price - Imported
+Products list - Products - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: cleaning_services_opt finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+<br />
+<b>Notice</b>:  Trying to get property 'term_id' of non-object in <b>/Applications/MAMP/htdocs/wp-themes/cleaning-services/wp-content/plugins/cleaning-services-demo-installer/one-click-demo-import-setting.php</b> on line <b>60</b><br />
+

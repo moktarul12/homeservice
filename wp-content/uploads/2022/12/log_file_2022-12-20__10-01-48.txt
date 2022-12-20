@@ -1,0 +1,252 @@
+
+---Downloaded files---
+The import files for: Demo2 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://localhost/wp/homeservice
+Data file = /Applications/MAMP/htdocs/wp/homeservice/wp-content/plugins/cleaning-services-demo-installer/demo-data/demo_2_elementor/contents.xml
+Widget file = /Applications/MAMP/htdocs/wp/homeservice/wp-content/plugins/cleaning-services-demo-installer/demo-data/demo_2_elementor/widgets.wie
+Customizer file = /Applications/MAMP/htdocs/wp/homeservice/wp-content/plugins/cleaning-services-demo-installer/demo-data/demo_2_elementor/customize.dat
+Redux files:
+cleaning_services_opt -> /Applications/MAMP/htdocs/wp/homeservice/wp-content/plugins/cleaning-services-demo-installer/demo-data/demo_2_elementor/settings.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat All-Purpose Cleaners
+[WARNING] Failed to import product_cat Carpet &amp; Floor Cleaners
+[WARNING] Failed to import product_cat Cleaning Tools
+[WARNING] Failed to import product_cat Drain &amp; Septic Care
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Glass Cleaners
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Kitchen Cleaners
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Pet Stain &amp; Odor Remover
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Surface Care &amp; Protection
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat All-Purpose Cleaners
+[WARNING] Failed to import product_cat Carpet &amp; Floor Cleaners
+[WARNING] Failed to import product_cat Cleaning Tools
+[WARNING] Failed to import product_cat Drain &amp; Septic Care
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Glass Cleaners
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Kitchen Cleaners
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Pet Stain &amp; Odor Remover
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Surface Care &amp; Protection
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat All-Purpose Cleaners
+[WARNING] Failed to import product_cat Carpet &amp; Floor Cleaners
+[WARNING] Failed to import product_cat Cleaning Tools
+[WARNING] Failed to import product_cat Drain &amp; Septic Care
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Glass Cleaners
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Kitchen Cleaners
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Pet Stain &amp; Odor Remover
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Surface Care &amp; Protection
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat All-Purpose Cleaners
+[WARNING] Failed to import product_cat Carpet &amp; Floor Cleaners
+[WARNING] Failed to import product_cat Cleaning Tools
+[WARNING] Failed to import product_cat Drain &amp; Septic Care
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Glass Cleaners
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Kitchen Cleaners
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Pet Stain &amp; Odor Remover
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Surface Care &amp; Protection
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat All-Purpose Cleaners
+[WARNING] Failed to import product_cat Carpet &amp; Floor Cleaners
+[WARNING] Failed to import product_cat Cleaning Tools
+[WARNING] Failed to import product_cat Drain &amp; Septic Care
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Glass Cleaners
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Kitchen Cleaners
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Pet Stain &amp; Odor Remover
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Surface Care &amp; Protection
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat All-Purpose Cleaners
+[WARNING] Failed to import product_cat Carpet &amp; Floor Cleaners
+[WARNING] Failed to import product_cat Cleaning Tools
+[WARNING] Failed to import product_cat Drain &amp; Septic Care
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Glass Cleaners
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Kitchen Cleaners
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Pet Stain &amp; Odor Remover
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Surface Care &amp; Protection
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Calendar - Archives - Imported
+Categories - Post Categories - Imported
+Tag Cloud - Popular tags - Imported
+
+Services Sidebar : 
+
+Navigation Menu - No Title - Imported
+Text - No Title - Imported
+
+Contact Info : 
+
+Cleaning Contact Box - Contacts - Imported
+
+Footer Column 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer Column 2 : 
+
+Service Custom Menu - Cleaning Services - Imported
+
+Footer Column 3 : 
+
+Custom HTML - Contact Information - Imported
+
+Woo Shop Sidebar : 
+
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+
+
+
+---Importing Redux settings---
+Redux settings import for: cleaning_services_opt finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Calendar - Archives - Widget already exists
+Categories - Post Categories - Widget already exists
+Tag Cloud - Popular tags - Widget already exists
+
+Services Sidebar : 
+
+Navigation Menu - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Contact Info : 
+
+Cleaning Contact Box - Contacts - Widget already exists
+
+Footer Column 1 : 
+
+Custom HTML - No Title - Widget already exists
+
+Footer Column 2 : 
+
+Service Custom Menu - Cleaning Services - Widget already exists
+
+Footer Column 3 : 
+
+Custom HTML - Contact Information - Widget already exists
+
+Woo Shop Sidebar : 
+
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+
+
+
+---Importing Redux settings---
+Redux settings import for: cleaning_services_opt finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

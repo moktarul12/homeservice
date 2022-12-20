@@ -1,0 +1,1959 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cleaning Services Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-13 15:37+0600\n"
+"PO-Revision-Date: 2019-03-05 12:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: SmartDataSoft <support@smartdatasoft.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../cleaning-services-core.php:20
+msgid "Function Not Defined"
+msgstr ""
+
+#: ../cleaning-services-core.php:29
+msgid "Destination Email Not Found"
+msgstr ""
+
+#: ../cleaning-services-core.php:54
+msgid "Customer Massage"
+msgstr ""
+
+#: ../cleaning-services-core.php:57
+msgid "Total Price"
+msgstr ""
+
+#: ../cleaning-services-core.php:73
+msgid "Nonce Error"
+msgstr ""
+
+#: ../cleaning-services-core.php:388
+msgid "Snazzy!"
+msgstr ""
+
+#: ../cleaning-services-core.php:404
+msgid "Icon library"
+msgstr ""
+
+#: ../cleaning-services-core.php:406
+msgid "Cleaning Icon"
+msgstr ""
+
+#: ../cleaning-services-core.php:407
+msgid "Font Awesome"
+msgstr ""
+
+#: ../cleaning-services-core.php:408
+msgid "Open Iconic"
+msgstr ""
+
+#: ../cleaning-services-core.php:409
+msgid "Typicons"
+msgstr ""
+
+#: ../cleaning-services-core.php:410
+msgid "Entypo"
+msgstr ""
+
+#: ../cleaning-services-core.php:411
+msgid "Linecons"
+msgstr ""
+
+#: ../cleaning-services-core.php:412
+msgid "Mono Social"
+msgstr ""
+
+#: ../cleaning-services-core.php:415
+msgid "Select icon library."
+msgstr ""
+
+#: ../cleaning-services-core.php:419 ../cleaning-services-core.php:436
+#: ../cleaning-services-core.php:453 ../cleaning-services-core.php:470
+#: ../cleaning-services-core.php:486 ../cleaning-services-core.php:503
+#: ../cleaning-services-core.php:522 ../vc_element/vc_map_action_button.php:34
+#: ../vc_element/vc_map_icon_box.php:137
+msgid "Icon"
+msgstr ""
+
+#: ../cleaning-services-core.php:432 ../cleaning-services-core.php:449
+#: ../cleaning-services-core.php:466 ../cleaning-services-core.php:499
+#: ../cleaning-services-core.php:518 ../cleaning-services-core.php:537
+msgid "Select icon from library."
+msgstr ""
+
+#: ../lib/config.meta.box.php:68 ../lib/config.meta.box.php:93
+#: ../lib/config.meta.box.php:113 ../lib/config.meta.box.php:133
+msgid "Post Format Data"
+msgstr ""
+
+#: ../lib/config.meta.box.php:77
+msgid "Link"
+msgstr ""
+
+#: ../lib/config.meta.box.php:78 ../lib/config.meta.box.php:84
+msgid "Works with link post format."
+msgstr ""
+
+#: ../lib/config.meta.box.php:83
+msgid "Link title"
+msgstr ""
+
+#: ../lib/config.meta.box.php:102
+msgid "Video Markup"
+msgstr ""
+
+#: ../lib/config.meta.box.php:103 ../lib/config.meta.box.php:123
+msgid "Put embed src of video. i.e. youtube, vimeo"
+msgstr ""
+
+#: ../lib/config.meta.box.php:122
+msgid "Audio Markup"
+msgstr ""
+
+#: ../lib/config.meta.box.php:142
+msgid "Upload Gallery Images"
+msgstr ""
+
+#: ../lib/config.meta.box.php:152
+msgid "Manage Testimonial Meta Fields"
+msgstr ""
+
+#: ../lib/config.meta.box.php:161
+msgid "Customer Name"
+msgstr ""
+
+#: ../lib/config.meta.box.php:162
+msgid "Customer Name."
+msgstr ""
+
+#: ../lib/config.meta.box.php:167
+msgid "Customer Ratting"
+msgstr ""
+
+#: ../lib/config.meta.box.php:168
+msgid "Enter Customer Ratting"
+msgstr ""
+
+#: ../lib/config.meta.box.php:181
+msgid "Rating Style"
+msgstr ""
+
+#: ../lib/config.meta.box.php:189 ../vc_element/vc_map_cost_calculator.php:117
+#: ../vc_element/vc_map_cost_calculator2.php:79
+#: ../vc_element/vc_map_cost_calculator2.php:254
+msgid "Select"
+msgstr ""
+
+#: ../lib/config.meta.box.php:226
+msgid "Our Coupons Meta Fields"
+msgstr ""
+
+#: ../lib/config.meta.box.php:235 ../lib/config.meta.box.php:236
+msgid "Coupon Top Right"
+msgstr ""
+
+#: ../lib/config.meta.box.php:241 ../lib/config.meta.box.php:242
+msgid "Coupon Middle"
+msgstr ""
+
+#: ../lib/config.meta.box.php:247 ../lib/config.meta.box.php:248
+msgid "Coupon Title"
+msgstr ""
+
+#: ../lib/config.meta.box.php:253 ../lib/config.meta.box.php:254
+msgid "Coupon Ribbon"
+msgstr ""
+
+#: ../lib/config.meta.box.php:259 ../lib/config.meta.box.php:260
+msgid "Coupon Date"
+msgstr ""
+
+#: ../lib/config.meta.box.php:265
+msgid "Logo Image"
+msgstr ""
+
+#: ../lib/config.meta.box.php:278
+msgid "Select Thumbnail size for gallery"
+msgstr ""
+
+#: ../lib/config.meta.box.php:287
+msgid "Amount"
+msgstr ""
+
+#: ../lib/config.meta.box.php:292
+msgid "Time duration ( Day or weeks or month )"
+msgstr ""
+
+#: ../lib/config.meta.box.php:297
+msgid "Select Thumbanail size"
+msgstr ""
+
+#: ../lib/config.meta.box.php:316
+msgid "Page Design Settings"
+msgstr ""
+
+#: ../lib/config.meta.box.php:325
+msgid "Show page titlebar"
+msgstr ""
+
+#: ../lib/config.meta.box.php:333
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:8 ../lib/sds_cpt_gallery.php:9
+msgid "Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:10
+msgid "Add New"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:11
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:12
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:13
+msgid "New Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:14
+msgid "View Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:15
+msgid "Search Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:16
+msgid "No Gallery found"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:17
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:48
+msgctxt "portfolio categories"
+msgid "Gallery Categories"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:49
+msgctxt "portfolio category"
+msgid "Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:50
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:51
+msgid "All Gallery Categories"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:52
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:53
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:54
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:55
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:56
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:57
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:58
+msgid "Gallery Category"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:183
+msgid "Sidebar Generator"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:184
+msgid ""
+"The sidebar name is for your use only. It will not be visible to any of your "
+"visitors. A CSS class is assigned to each of your sidebar, use this styling "
+"to customize the sidebars."
+msgstr ""
+
+#: ../lib/sidebar_generator.php:187
+msgid "+ Add Sidebar"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:192
+msgid "Name"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:193
+msgid "CSS class"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:194
+msgid "Remove"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:207
+msgid "remove"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:215
+msgid "No Sidebars defined"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:6
+msgctxt "Post Type General Name"
+msgid "About Tabs"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:7
+msgctxt "Post Type Singular Name"
+msgid "About Tabs"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:8
+#: ../post_type/custom-post-about-company.php:9
+#: ../vc_element/vc_map_about_us.php:3
+msgid "About Tabs"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:10
+#: ../post_type/custom-post-our-coupns.php:11
+#: ../post_type/custom-post-services.php:21
+msgid "Item Archives"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:11
+#: ../post_type/custom-post-our-coupns.php:12
+#: ../post_type/custom-post-services.php:22
+msgid "Parent Item:"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:12
+msgid "All About Tabs"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:13
+#: ../post_type/custom-post-about-company.php:14
+msgid "Add New About Tab"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:15
+msgid "New About Tab Item"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:16
+msgid "Edit About Tab Item"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:17
+msgid "Update About Tab Item"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:18
+msgid "View About Tab Item"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:19
+#: ../post_type/custom-post-our-coupns.php:20
+#: ../post_type/custom-post-services.php:30
+msgid "Search Item"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:20
+#: ../post_type/custom-post-our-coupns.php:21
+#: ../post_type/custom-post-services.php:31
+msgid "Not found"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:21
+#: ../post_type/custom-post-our-coupns.php:22
+#: ../post_type/custom-post-services.php:32
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:22
+#: ../post_type/custom-post-our-coupns.php:23
+#: ../post_type/custom-post-services.php:33
+msgid "Featured Image"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:23
+#: ../post_type/custom-post-our-coupns.php:24
+#: ../post_type/custom-post-services.php:34
+msgid "Set featured image"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:24
+#: ../post_type/custom-post-our-coupns.php:25
+#: ../post_type/custom-post-services.php:35
+msgid "Remove featured image"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:25
+#: ../post_type/custom-post-our-coupns.php:26
+#: ../post_type/custom-post-services.php:36
+msgid "Use as featured image"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:26
+#: ../post_type/custom-post-our-coupns.php:27
+#: ../post_type/custom-post-services.php:37
+msgid "Insert into item"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:27
+#: ../post_type/custom-post-our-coupns.php:28
+#: ../post_type/custom-post-services.php:38
+msgid "Uploaded to this item"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:28
+#: ../post_type/custom-post-our-coupns.php:29
+#: ../post_type/custom-post-services.php:39
+msgid "Items list"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:29
+#: ../post_type/custom-post-our-coupns.php:30
+#: ../post_type/custom-post-services.php:40
+msgid "Items list navigation"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:30
+#: ../post_type/custom-post-our-coupns.php:31
+#: ../post_type/custom-post-services.php:41
+msgid "Filter items list"
+msgstr ""
+
+#: ../post_type/custom-post-about-company.php:36
+#: ../post_type/custom-post-our-coupns.php:36
+#: ../post_type/custom-post-services.php:57
+msgid "Description."
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:7
+msgctxt "Post Type General Name"
+msgid "Coupons"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:8
+msgctxt "Post Type Singular Name"
+msgid "Coupon"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:9
+msgid "Coupons"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:10
+msgid "Coupon"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:13
+msgid "All Coupons"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:14
+#: ../post_type/custom-post-our-coupns.php:15
+msgid "Add New Coupon"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:16
+#: ../post_type/custom-post-services.php:26
+msgid "New Service Item"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:17
+msgid "Edit Coupon Item"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:18
+msgid "Update Coupon Item"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:19
+msgid "View Coupon Item"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:18
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:19
+msgid "Services"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:20
+msgid "Service"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:23
+msgid "All Services"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:24
+#: ../post_type/custom-post-services.php:25
+msgid "Add New Service"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:27
+msgid "Edit Service Item"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:28
+msgid "Update Service Item"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:29
+msgid "View Service Item"
+msgstr ""
+
+#: ../redux/redux.config.php:9
+msgid "SMTP Mail Settings"
+msgstr ""
+
+#: ../redux/redux.config.php:11
+msgid "This for SMTP Mail setting!"
+msgstr ""
+
+#: ../redux/redux.config.php:18
+msgid "Destination Email"
+msgstr ""
+
+#: ../redux/redux.config.php:19
+msgid "The Owner Mail Address."
+msgstr ""
+
+#: ../redux/redux.config.php:25
+msgid "Success Message"
+msgstr ""
+
+#: ../redux/redux.config.php:26
+msgid "Show User when message sent successfully."
+msgstr ""
+
+#: ../redux/redux.config.php:32
+msgid "Error Message"
+msgstr ""
+
+#: ../redux/redux.config.php:33
+msgid "Show User when message not sent."
+msgstr ""
+
+#: ../redux/redux.config.php:39
+msgid "Using SMTP Mail"
+msgstr ""
+
+#: ../redux/redux.config.php:40
+msgid "Enable or Disable SMTP Mail"
+msgstr ""
+
+#: ../redux/redux.config.php:42
+msgid "Enable"
+msgstr ""
+
+#: ../redux/redux.config.php:43
+msgid "Disable"
+msgstr ""
+
+#: ../redux/redux.config.php:48
+msgid "SMTP Host Name"
+msgstr ""
+
+#: ../redux/redux.config.php:49
+msgid "The hostname of the mail server"
+msgstr ""
+
+#: ../redux/redux.config.php:55
+msgid "SMTP User Name"
+msgstr ""
+
+#: ../redux/redux.config.php:56
+msgid "Username to use for SMTP authentication"
+msgstr ""
+
+#: ../redux/redux.config.php:62
+msgid "SMTP Password"
+msgstr ""
+
+#: ../redux/redux.config.php:63
+msgid "Password to use for SMTP authentication"
+msgstr ""
+
+#: ../redux/redux.config.php:69
+msgid "SMTP Port Number"
+msgstr ""
+
+#: ../redux/redux.config.php:70
+msgid "SMTP port number - likely to be 25, 465 or 587"
+msgstr ""
+
+#: ../redux/redux.config.php:76
+msgid "SMTP Form"
+msgstr ""
+
+#: ../redux/redux.config.php:77
+msgid "SMTP From email address"
+msgstr ""
+
+#: ../redux/redux.config.php:83
+msgid "SMTP From Name"
+msgstr ""
+
+#: ../redux/redux.config.php:84
+msgid "SMTP From name"
+msgstr ""
+
+#: ../redux/redux.config.php:90
+msgid "SMTP Encryption system"
+msgstr ""
+
+#: ../redux/redux.config.php:91
+msgid "Encryption system to use - ssl or tls"
+msgstr ""
+
+#: ../redux/redux.config.php:97
+msgid "SMTP authentication"
+msgstr ""
+
+#: ../redux/redux.config.php:98
+msgid "Enable or Disable SMTP authentication"
+msgstr ""
+
+#: ../redux/redux.config.php:100
+msgid "True"
+msgstr ""
+
+#: ../redux/redux.config.php:101
+msgid "False"
+msgstr ""
+
+#: ../redux/redux.config.php:106
+msgid "SMTP Debug"
+msgstr ""
+
+#: ../redux/redux.config.php:107
+msgid "Only for developer, Please dont change this."
+msgstr ""
+
+#: ../shortcode/shortcode_affiliate_office.php:29
+#: ../widgets/smart-contact-box-widget.php:59
+msgid "Phone"
+msgstr ""
+
+#: ../shortcode/shortcode_affiliate_office.php:32
+msgid "Fax"
+msgstr ""
+
+#: ../shortcode/shortcode_affiliate_office.php:35
+msgid "Email"
+msgstr ""
+
+#: ../shortcode/shortcode_blog.php:74 ../shortcode/shortcode_blog.php:79
+#: ../shortcode/shortcode_blog.php:142
+msgid "by"
+msgstr ""
+
+#: ../shortcode/shortcode_blog.php:76
+msgid "0"
+msgstr ""
+
+#: ../shortcode/shortcode_blog.php:76
+msgid "1"
+msgstr ""
+
+#: ../shortcode/shortcode_blog.php:76
+msgid "%"
+msgstr ""
+
+#: ../shortcode/shortcode_blog.php:79 ../shortcode/shortcode_blog.php:142
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../shortcode/shortcode_blog.php:101 ../shortcode/shortcode_blog.php:162
+msgid "More Posts"
+msgstr ""
+
+#: ../shortcode/shortcode_cost_calculator2.php:34
+msgid "Final Cost"
+msgstr ""
+
+#: ../shortcode/shortcode_cost_calculator2.php:166
+msgid "Choose..."
+msgstr ""
+
+#: ../shortcode/shortcode_coupns.php:122
+msgid "See All Coupons"
+msgstr ""
+
+#: ../shortcode/shortcode_gallery_block.php:34
+msgid "All"
+msgstr ""
+
+#: ../shortcode/shortcode_news_slider.php:77
+msgid "Read more"
+msgstr ""
+
+#: ../vc_element/vc_map_about_us.php:4
+msgid "About Our Company"
+msgstr ""
+
+#: ../vc_element/vc_map_about_us.php:7
+#: ../vc_element/vc_map_action_button.php:22
+#: ../vc_element/vc_map_affiliate_office.php:7
+#: ../vc_element/vc_map_banner_calendar.php:7 ../vc_element/vc_map_brand.php:6
+#: ../vc_element/vc_map_brand.php:109 ../vc_element/vc_map_contact_map.php:5
+#: ../vc_element/vc_map_cost_calculator.php:7
+#: ../vc_element/vc_map_cost_calculator2.php:5
+#: ../vc_element/vc_map_cost_calculator2.php:156
+#: ../vc_element/vc_map_coupns.php:7 ../vc_element/vc_map_cus_choose.php:7
+#: ../vc_element/vc_map_cus_choose.php:44 ../vc_element/vc_map_discount.php:6
+#: ../vc_element/vc_map_discount.php:24 ../vc_element/vc_map_gallery.php:8
+#: ../vc_element/vc_map_guarantee_banner.php:7
+#: ../vc_element/vc_map_icon_box.php:7 ../vc_element/vc_map_icon_box.php:130
+#: ../vc_element/vc_map_icon_carousel.php:6
+#: ../vc_element/vc_map_icon_carousel.php:48
+#: ../vc_element/vc_map_icon_hor.php:6 ../vc_element/vc_map_icon_hor.php:48
+#: ../vc_element/vc_map_icon_how_it_work.php:7
+#: ../vc_element/vc_map_icon_how_it_work.php:38
+#: ../vc_element/vc_map_news_slider.php:5
+#: ../vc_element/vc_map_news_slider.php:106
+#: ../vc_element/vc_map_numbers_carousel.php:7
+#: ../vc_element/vc_map_numbers_carousel.php:135
+#: ../vc_element/vc_map_price_box-tab.php:7
+#: ../vc_element/vc_map_price_box-tab.php:76
+#: ../vc_element/vc_map_price_box-tab.php:96
+#: ../vc_element/vc_map_price_box.php:6 ../vc_element/vc_map_price_box.php:119
+#: ../vc_element/vc_map_service_banner.php:7
+#: ../vc_element/vc_map_service_banner.php:126
+#: ../vc_element/vc_map_service_gallery.php:10
+#: ../vc_element/vc_map_service_shine.php:6
+#: ../vc_element/vc_map_service_shine.php:110
+#: ../vc_element/vc_map_service_slider.php:7
+#: ../vc_element/vc_map_service_slider.php:113
+#: ../vc_element/vc_map_slickslider.php:6
+#: ../vc_element/vc_map_slickslider.php:110 ../vc_element/vc_map_team.php:6
+#: ../vc_element/vc_map_team.php:131 ../vc_element/vc_map_testimonials-2.php:6
+#: ../vc_element/vc_map_testimonials-2.php:109
+#: ../vc_element/vc_map_testimonials.php:7
+#: ../vc_element/vc_map_testimonials.php:137
+msgid "Cleaning Services"
+msgstr ""
+
+#: ../vc_element/vc_map_about_us.php:20
+msgid "Right Image"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:14
+msgid "No contact forms found"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:19
+#: ../vc_element/vc_map_banner_calendar.php:56
+msgid "Action Button"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:21
+msgid "Action Button For Pop Up Or Modal"
+msgstr ""
+
+#: ../vc_element/vc_map_affiliate_office.php:4
+msgid "Affiliate Office"
+msgstr ""
+
+#: ../vc_element/vc_map_affiliate_office.php:11
+msgid "Title "
+msgstr ""
+
+#: ../vc_element/vc_map_affiliate_office.php:17
+msgid "Location "
+msgstr ""
+
+#: ../vc_element/vc_map_affiliate_office.php:23
+msgid "Phone "
+msgstr ""
+
+#: ../vc_element/vc_map_affiliate_office.php:29
+msgid "Fax "
+msgstr ""
+
+#: ../vc_element/vc_map_affiliate_office.php:35
+msgid "Email "
+msgstr ""
+
+#: ../vc_element/vc_map_affiliate_office.php:41
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../vc_element/vc_map_affiliate_office.php:47
+msgid "Facebook URL"
+msgstr ""
+
+#: ../vc_element/vc_map_affiliate_office.php:53
+msgid "Twitter URL"
+msgstr ""
+
+#: ../vc_element/vc_map_affiliate_office.php:59
+msgid "Instagram URL"
+msgstr ""
+
+#: ../vc_element/vc_map_affiliate_office.php:66
+#: ../widgets/smart-contact-box-widget.php:50
+msgid "Address"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_calendar.php:4
+msgid "Banner Calendar"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_calendar.php:13
+msgid "Picture Of Cover Front"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_calendar.php:21
+msgid "Picture Of Cover Back"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_calendar.php:29
+msgid "Picture Of Calendar Img"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_calendar.php:36
+#: ../vc_element/vc_map_cost_calculator.php:34
+#: ../vc_element/vc_map_cost_calculator.php:65
+#: ../vc_element/vc_map_cost_calculator.php:93
+#: ../vc_element/vc_map_cost_calculator2.php:171
+#: ../vc_element/vc_map_cost_calculator2.php:202
+#: ../vc_element/vc_map_cost_calculator2.php:230
+#: ../vc_element/vc_map_icon_how_it_work.php:53
+#: ../vc_element/vc_map_news_slider.php:129
+#: ../vc_element/vc_map_price_box-tab.php:123
+#: ../vc_element/vc_map_service_gallery.php:37
+#: ../vc_element/vc_map_service_shine.php:118
+#: ../widgets/smart-contact-box-widget.php:40
+#: ../widgets/smart-posts-grid-widget.php:30
+msgid "Title"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_calendar.php:42
+msgid "Banner Paragraph "
+msgstr ""
+
+#: ../vc_element/vc_map_banner_calendar.php:49
+msgid "Action Button Title"
+msgstr ""
+
+#: ../vc_element/vc_map_blog.php:3
+msgid "Blog posts"
+msgstr ""
+
+#: ../vc_element/vc_map_blog.php:11
+msgid "Select post loop"
+msgstr ""
+
+#: ../vc_element/vc_map_blog.php:16
+msgid "Layout"
+msgstr ""
+
+#: ../vc_element/vc_map_blog.php:25
+msgid "Pagination"
+msgstr ""
+
+#: ../vc_element/vc_map_blog.php:35
+#: ../vc_element/vc_map_cost_calculator.php:220
+#: ../vc_element/vc_map_cost_calculator2.php:369
+#: ../vc_element/vc_map_coupns.php:48
+#: ../vc_element/vc_map_icon_how_it_work.php:80
+#: ../vc_element/vc_map_news_slider.php:146
+#: ../vc_element/vc_map_numbers_carousel.php:40
+#: ../vc_element/vc_map_testimonials-2.php:14
+#: ../vc_element/vc_map_testimonials.php:42
+msgid "Extra Class"
+msgstr ""
+
+#: ../vc_element/vc_map_brand.php:4
+msgid "Brand Slider"
+msgstr ""
+
+#: ../vc_element/vc_map_brand.php:20 ../vc_element/vc_map_coupns.php:53
+#: ../vc_element/vc_map_gallery.php:43 ../vc_element/vc_map_icon_box.php:20
+#: ../vc_element/vc_map_numbers_carousel.php:45
+#: ../vc_element/vc_map_price_box-tab.php:15
+#: ../vc_element/vc_map_price_box.php:29
+#: ../vc_element/vc_map_service_banner.php:31
+#: ../vc_element/vc_map_service_shine.php:20 ../vc_element/vc_map_team.php:40
+#: ../vc_element/vc_map_testimonials-2.php:19
+#: ../vc_element/vc_map_testimonials.php:47
+msgid "Enable Mobile First"
+msgstr ""
+
+#: ../vc_element/vc_map_brand.php:22 ../vc_element/vc_map_brand.php:33
+#: ../vc_element/vc_map_brand.php:43 ../vc_element/vc_map_brand.php:57
+#: ../vc_element/vc_map_brand.php:68 ../vc_element/vc_map_brand.php:75
+#: ../vc_element/vc_map_brand.php:89 ../vc_element/vc_map_brand.php:100
+#: ../vc_element/vc_map_coupns.php:55 ../vc_element/vc_map_coupns.php:66
+#: ../vc_element/vc_map_coupns.php:76 ../vc_element/vc_map_coupns.php:90
+#: ../vc_element/vc_map_coupns.php:101 ../vc_element/vc_map_coupns.php:108
+#: ../vc_element/vc_map_coupns.php:122 ../vc_element/vc_map_coupns.php:133
+#: ../vc_element/vc_map_gallery.php:45 ../vc_element/vc_map_gallery.php:56
+#: ../vc_element/vc_map_gallery.php:66 ../vc_element/vc_map_gallery.php:80
+#: ../vc_element/vc_map_gallery.php:91 ../vc_element/vc_map_gallery.php:98
+#: ../vc_element/vc_map_gallery.php:112 ../vc_element/vc_map_gallery.php:123
+#: ../vc_element/vc_map_icon_box.php:22 ../vc_element/vc_map_icon_box.php:33
+#: ../vc_element/vc_map_icon_box.php:43 ../vc_element/vc_map_icon_box.php:57
+#: ../vc_element/vc_map_icon_box.php:64 ../vc_element/vc_map_icon_box.php:74
+#: ../vc_element/vc_map_icon_box.php:88 ../vc_element/vc_map_icon_box.php:95
+#: ../vc_element/vc_map_icon_box.php:109 ../vc_element/vc_map_icon_box.php:120
+#: ../vc_element/vc_map_news_slider.php:30
+#: ../vc_element/vc_map_news_slider.php:40
+#: ../vc_element/vc_map_news_slider.php:54
+#: ../vc_element/vc_map_news_slider.php:65
+#: ../vc_element/vc_map_news_slider.php:72
+#: ../vc_element/vc_map_news_slider.php:86
+#: ../vc_element/vc_map_news_slider.php:97
+#: ../vc_element/vc_map_numbers_carousel.php:47
+#: ../vc_element/vc_map_numbers_carousel.php:58
+#: ../vc_element/vc_map_numbers_carousel.php:68
+#: ../vc_element/vc_map_numbers_carousel.php:82
+#: ../vc_element/vc_map_numbers_carousel.php:93
+#: ../vc_element/vc_map_numbers_carousel.php:100
+#: ../vc_element/vc_map_numbers_carousel.php:114
+#: ../vc_element/vc_map_numbers_carousel.php:125
+#: ../vc_element/vc_map_price_box-tab.php:17
+#: ../vc_element/vc_map_price_box-tab.php:32
+#: ../vc_element/vc_map_price_box-tab.php:43
+#: ../vc_element/vc_map_price_box-tab.php:54
+#: ../vc_element/vc_map_price_box-tab.php:65
+#: ../vc_element/vc_map_price_box.php:31 ../vc_element/vc_map_price_box.php:42
+#: ../vc_element/vc_map_price_box.php:52 ../vc_element/vc_map_price_box.php:66
+#: ../vc_element/vc_map_price_box.php:77 ../vc_element/vc_map_price_box.php:84
+#: ../vc_element/vc_map_price_box.php:98 ../vc_element/vc_map_price_box.php:109
+#: ../vc_element/vc_map_service_banner.php:33
+#: ../vc_element/vc_map_service_banner.php:44
+#: ../vc_element/vc_map_service_banner.php:54
+#: ../vc_element/vc_map_service_banner.php:68
+#: ../vc_element/vc_map_service_banner.php:79
+#: ../vc_element/vc_map_service_banner.php:86
+#: ../vc_element/vc_map_service_banner.php:100
+#: ../vc_element/vc_map_service_banner.php:111
+#: ../vc_element/vc_map_service_shine.php:22
+#: ../vc_element/vc_map_service_shine.php:33
+#: ../vc_element/vc_map_service_shine.php:43
+#: ../vc_element/vc_map_service_shine.php:57
+#: ../vc_element/vc_map_service_shine.php:68
+#: ../vc_element/vc_map_service_shine.php:75
+#: ../vc_element/vc_map_service_shine.php:89
+#: ../vc_element/vc_map_service_shine.php:100
+#: ../vc_element/vc_map_service_slider.php:34
+#: ../vc_element/vc_map_service_slider.php:44
+#: ../vc_element/vc_map_service_slider.php:58
+#: ../vc_element/vc_map_service_slider.php:69
+#: ../vc_element/vc_map_service_slider.php:76
+#: ../vc_element/vc_map_service_slider.php:90
+#: ../vc_element/vc_map_service_slider.php:101
+#: ../vc_element/vc_map_slickslider.php:36
+#: ../vc_element/vc_map_slickslider.php:43
+#: ../vc_element/vc_map_slickslider.php:57
+#: ../vc_element/vc_map_slickslider.php:68
+#: ../vc_element/vc_map_slickslider.php:79
+#: ../vc_element/vc_map_slickslider.php:90
+#: ../vc_element/vc_map_slickslider.php:101 ../vc_element/vc_map_team.php:42
+#: ../vc_element/vc_map_team.php:53 ../vc_element/vc_map_team.php:63
+#: ../vc_element/vc_map_team.php:77 ../vc_element/vc_map_team.php:88
+#: ../vc_element/vc_map_team.php:95 ../vc_element/vc_map_team.php:109
+#: ../vc_element/vc_map_team.php:120 ../vc_element/vc_map_testimonials-2.php:21
+#: ../vc_element/vc_map_testimonials-2.php:32
+#: ../vc_element/vc_map_testimonials-2.php:42
+#: ../vc_element/vc_map_testimonials-2.php:56
+#: ../vc_element/vc_map_testimonials-2.php:67
+#: ../vc_element/vc_map_testimonials-2.php:74
+#: ../vc_element/vc_map_testimonials-2.php:88
+#: ../vc_element/vc_map_testimonials-2.php:99
+#: ../vc_element/vc_map_testimonials.php:49
+#: ../vc_element/vc_map_testimonials.php:60
+#: ../vc_element/vc_map_testimonials.php:70
+#: ../vc_element/vc_map_testimonials.php:84
+#: ../vc_element/vc_map_testimonials.php:95
+#: ../vc_element/vc_map_testimonials.php:102
+#: ../vc_element/vc_map_testimonials.php:116
+#: ../vc_element/vc_map_testimonials.php:127
+msgid "Slider Settings"
+msgstr ""
+
+#: ../vc_element/vc_map_brand.php:31 ../vc_element/vc_map_brand.php:41
+#: ../vc_element/vc_map_brand.php:73 ../vc_element/vc_map_coupns.php:64
+#: ../vc_element/vc_map_coupns.php:106 ../vc_element/vc_map_gallery.php:54
+#: ../vc_element/vc_map_icon_box.php:31 ../vc_element/vc_map_icon_box.php:41
+#: ../vc_element/vc_map_icon_box.php:93 ../vc_element/vc_map_news_slider.php:28
+#: ../vc_element/vc_map_numbers_carousel.php:56
+#: ../vc_element/vc_map_numbers_carousel.php:98
+#: ../vc_element/vc_map_price_box.php:40 ../vc_element/vc_map_price_box.php:82
+#: ../vc_element/vc_map_service_banner.php:42
+#: ../vc_element/vc_map_service_shine.php:31
+#: ../vc_element/vc_map_service_shine.php:41
+#: ../vc_element/vc_map_service_shine.php:73
+#: ../vc_element/vc_map_service_slider.php:32 ../vc_element/vc_map_team.php:51
+#: ../vc_element/vc_map_team.php:93 ../vc_element/vc_map_testimonials-2.php:30
+#: ../vc_element/vc_map_testimonials.php:58
+msgid "How many Slides to show?"
+msgstr ""
+
+#: ../vc_element/vc_map_brand.php:51 ../vc_element/vc_map_coupns.php:84
+#: ../vc_element/vc_map_gallery.php:74 ../vc_element/vc_map_icon_box.php:51
+#: ../vc_element/vc_map_news_slider.php:48
+#: ../vc_element/vc_map_numbers_carousel.php:76
+#: ../vc_element/vc_map_price_box-tab.php:26
+#: ../vc_element/vc_map_price_box.php:60
+#: ../vc_element/vc_map_service_banner.php:62
+#: ../vc_element/vc_map_service_shine.php:51
+#: ../vc_element/vc_map_service_slider.php:52 ../vc_element/vc_map_team.php:71
+#: ../vc_element/vc_map_testimonials-2.php:50
+#: ../vc_element/vc_map_testimonials.php:78
+msgid "Is infinite?"
+msgstr ""
+
+#: ../vc_element/vc_map_brand.php:62 ../vc_element/vc_map_coupns.php:95
+#: ../vc_element/vc_map_gallery.php:85 ../vc_element/vc_map_icon_box.php:82
+#: ../vc_element/vc_map_news_slider.php:59
+#: ../vc_element/vc_map_numbers_carousel.php:87
+#: ../vc_element/vc_map_price_box-tab.php:37
+#: ../vc_element/vc_map_price_box.php:71
+#: ../vc_element/vc_map_service_banner.php:73
+#: ../vc_element/vc_map_service_shine.php:62
+#: ../vc_element/vc_map_service_slider.php:63 ../vc_element/vc_map_team.php:82
+#: ../vc_element/vc_map_testimonials-2.php:61
+#: ../vc_element/vc_map_testimonials.php:89
+msgid "Enable Autoplay"
+msgstr ""
+
+#: ../vc_element/vc_map_brand.php:83 ../vc_element/vc_map_coupns.php:116
+#: ../vc_element/vc_map_gallery.php:106 ../vc_element/vc_map_icon_box.php:103
+#: ../vc_element/vc_map_news_slider.php:80
+#: ../vc_element/vc_map_numbers_carousel.php:108
+#: ../vc_element/vc_map_price_box-tab.php:48
+#: ../vc_element/vc_map_price_box.php:92
+#: ../vc_element/vc_map_service_banner.php:94
+#: ../vc_element/vc_map_service_shine.php:83
+#: ../vc_element/vc_map_service_slider.php:84
+#: ../vc_element/vc_map_slickslider.php:51 ../vc_element/vc_map_team.php:103
+#: ../vc_element/vc_map_testimonials-2.php:82
+#: ../vc_element/vc_map_testimonials.php:110
+msgid "Enable Arrows"
+msgstr ""
+
+#: ../vc_element/vc_map_brand.php:94 ../vc_element/vc_map_coupns.php:127
+#: ../vc_element/vc_map_gallery.php:117 ../vc_element/vc_map_icon_box.php:114
+#: ../vc_element/vc_map_news_slider.php:91
+#: ../vc_element/vc_map_numbers_carousel.php:119
+#: ../vc_element/vc_map_price_box-tab.php:59
+#: ../vc_element/vc_map_price_box.php:103
+#: ../vc_element/vc_map_service_banner.php:105
+#: ../vc_element/vc_map_service_shine.php:94
+#: ../vc_element/vc_map_service_slider.php:95
+#: ../vc_element/vc_map_slickslider.php:62 ../vc_element/vc_map_team.php:114
+#: ../vc_element/vc_map_testimonials-2.php:93
+#: ../vc_element/vc_map_testimonials.php:121
+msgid "Enable Dots"
+msgstr ""
+
+#: ../vc_element/vc_map_brand.php:117 ../vc_element/vc_map_contact_map.php:31
+#: ../vc_element/vc_map_slickslider.php:118
+#: ../vc_element/vc_map_testimonials-2.php:148
+#: ../vc_element/vc_map_testimonials.php:170
+msgid "Slider Image"
+msgstr ""
+
+#: ../vc_element/vc_map_brand.php:131 ../vc_element/vc_map_slickslider.php:151
+msgid "Unique ID"
+msgstr ""
+
+#: ../vc_element/vc_map_contact_map.php:3
+msgid "Contact Map"
+msgstr ""
+
+#: ../vc_element/vc_map_contact_map.php:10
+msgid "Gmap Api Key"
+msgstr ""
+
+#: ../vc_element/vc_map_contact_map.php:15
+msgid "Latitude"
+msgstr ""
+
+#: ../vc_element/vc_map_contact_map.php:20
+msgid "Longitude"
+msgstr ""
+
+#: ../vc_element/vc_map_contact_map.php:25
+msgid "Zoom"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:5
+#: ../vc_element/vc_map_cost_calculator2.php:154
+msgid "Cleaning Services Cost Calculator"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:15
+#: ../vc_element/vc_map_cost_calculator2.php:15
+#: ../vc_element/vc_map_cost_calculator2.php:69
+msgid "Page Heading"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:22
+#: ../vc_element/vc_map_cost_calculator2.php:22
+msgid "Page Sub Heading"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:28
+#: ../vc_element/vc_map_cost_calculator2.php:165
+msgid "List Items"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:40
+#: ../vc_element/vc_map_cost_calculator.php:194
+#: ../vc_element/vc_map_cost_calculator2.php:53
+#: ../vc_element/vc_map_cost_calculator2.php:104
+#: ../vc_element/vc_map_cost_calculator2.php:129
+#: ../vc_element/vc_map_cost_calculator2.php:177
+#: ../vc_element/vc_map_cost_calculator2.php:345
+msgid "Input type"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:42
+#: ../vc_element/vc_map_cost_calculator.php:196
+msgid "You can select icon size"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:45
+#: ../vc_element/vc_map_cost_calculator2.php:57
+#: ../vc_element/vc_map_cost_calculator2.php:182
+msgid "Select Input Type"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:46
+#: ../vc_element/vc_map_cost_calculator2.php:183
+msgid "Text"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:47
+#: ../vc_element/vc_map_cost_calculator2.php:184
+msgid "Select Box"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:48
+#: ../vc_element/vc_map_cost_calculator2.php:185
+msgid "Slider"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:49
+#: ../vc_element/vc_map_cost_calculator2.php:186
+msgid "Checkbox"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:50
+#: ../vc_element/vc_map_cost_calculator2.php:187
+msgid "Checkbox Group"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:51
+#: ../vc_element/vc_map_cost_calculator2.php:188
+msgid "Plane Text"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:58
+#: ../vc_element/vc_map_cost_calculator2.php:195
+msgid "List Checkbox Items"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:72
+#: ../vc_element/vc_map_cost_calculator.php:100
+#: ../vc_element/vc_map_cost_calculator2.php:209
+#: ../vc_element/vc_map_cost_calculator2.php:237
+msgid "Price"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:86
+#: ../vc_element/vc_map_cost_calculator2.php:223
+msgid "List Select Items"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:112
+#: ../vc_element/vc_map_cost_calculator2.php:249
+msgid "Slider Text Field On/Off"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:115
+#: ../vc_element/vc_map_cost_calculator2.php:77
+#: ../vc_element/vc_map_cost_calculator2.php:252
+msgid "You can select input field after slider"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:118
+#: ../vc_element/vc_map_cost_calculator2.php:80
+#: ../vc_element/vc_map_cost_calculator2.php:255
+msgid "ON"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:119
+#: ../vc_element/vc_map_cost_calculator2.php:81
+#: ../vc_element/vc_map_cost_calculator2.php:256
+msgid "OFF"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:130
+#: ../vc_element/vc_map_cost_calculator2.php:267
+msgid "Minimum Value"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:141
+#: ../vc_element/vc_map_cost_calculator2.php:278
+msgid "Maximum Value"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:152
+#: ../vc_element/vc_map_cost_calculator2.php:289
+msgid "Slider Step"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:162
+#: ../vc_element/vc_map_cost_calculator2.php:310
+msgid "Slider Per Step Price"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:172
+#: ../vc_element/vc_map_cost_calculator2.php:320
+msgid "Slider Color"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:183
+#: ../vc_element/vc_map_cost_calculator2.php:331
+msgid "checkbox field Price"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:199
+#: ../vc_element/vc_map_cost_calculator2.php:109
+#: ../vc_element/vc_map_cost_calculator2.php:134
+#: ../vc_element/vc_map_cost_calculator2.php:350
+msgid "Select Div Size"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:200
+#: ../vc_element/vc_map_cost_calculator2.php:110
+#: ../vc_element/vc_map_cost_calculator2.php:135
+#: ../vc_element/vc_map_cost_calculator2.php:351
+msgid "Column 1"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:201
+#: ../vc_element/vc_map_cost_calculator2.php:111
+#: ../vc_element/vc_map_cost_calculator2.php:136
+#: ../vc_element/vc_map_cost_calculator2.php:352
+msgid "Column 2"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:202
+#: ../vc_element/vc_map_cost_calculator2.php:112
+#: ../vc_element/vc_map_cost_calculator2.php:137
+#: ../vc_element/vc_map_cost_calculator2.php:353
+msgid "Column 3"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:203
+#: ../vc_element/vc_map_cost_calculator2.php:113
+#: ../vc_element/vc_map_cost_calculator2.php:138
+#: ../vc_element/vc_map_cost_calculator2.php:354
+msgid "Column 4"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:204
+#: ../vc_element/vc_map_cost_calculator2.php:114
+#: ../vc_element/vc_map_cost_calculator2.php:139
+#: ../vc_element/vc_map_cost_calculator2.php:355
+msgid "Column 5"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:205
+#: ../vc_element/vc_map_cost_calculator2.php:115
+#: ../vc_element/vc_map_cost_calculator2.php:140
+#: ../vc_element/vc_map_cost_calculator2.php:356
+msgid "Column 6"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:206
+#: ../vc_element/vc_map_cost_calculator2.php:116
+#: ../vc_element/vc_map_cost_calculator2.php:141
+#: ../vc_element/vc_map_cost_calculator2.php:357
+msgid "Column 7"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:207
+#: ../vc_element/vc_map_cost_calculator2.php:117
+#: ../vc_element/vc_map_cost_calculator2.php:142
+#: ../vc_element/vc_map_cost_calculator2.php:358
+msgid "Column 8"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:208
+#: ../vc_element/vc_map_cost_calculator2.php:118
+#: ../vc_element/vc_map_cost_calculator2.php:143
+#: ../vc_element/vc_map_cost_calculator2.php:359
+msgid "Column 9"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:209
+#: ../vc_element/vc_map_cost_calculator2.php:119
+#: ../vc_element/vc_map_cost_calculator2.php:144
+#: ../vc_element/vc_map_cost_calculator2.php:360
+msgid "Column 10"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:210
+#: ../vc_element/vc_map_cost_calculator2.php:120
+#: ../vc_element/vc_map_cost_calculator2.php:145
+#: ../vc_element/vc_map_cost_calculator2.php:361
+msgid "Column 11"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator.php:211
+#: ../vc_element/vc_map_cost_calculator2.php:121
+#: ../vc_element/vc_map_cost_calculator2.php:146
+#: ../vc_element/vc_map_cost_calculator2.php:362
+msgid "Column 12"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:3
+msgid "Cleaning Services Cost Calculator Parent"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:29
+msgid "Form Heading"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:36
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:42
+msgid "Form"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:48
+msgid "Form Field"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:55
+msgid "You can select Input Type"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:58
+msgid "Text Field"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:59
+msgid "Text Area"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:60
+msgid "Email Field"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:61
+msgid "Submit Button"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:74
+msgid "Terms and Conditions On/Off"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:91
+msgid "Terms and Conditions"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:106
+#: ../vc_element/vc_map_cost_calculator2.php:131
+#: ../vc_element/vc_map_cost_calculator2.php:179
+#: ../vc_element/vc_map_cost_calculator2.php:347
+msgid "You can select DIV size"
+msgstr ""
+
+#: ../vc_element/vc_map_cost_calculator2.php:300
+msgid "Slider Start Value"
+msgstr ""
+
+#: ../vc_element/vc_map_counter_block.php:3
+msgid "Counterbox Item"
+msgstr ""
+
+#: ../vc_element/vc_map_coupns.php:4
+msgid "Coupns"
+msgstr ""
+
+#: ../vc_element/vc_map_coupns.php:21 ../vc_element/vc_map_cus_choose.php:30
+#: ../vc_element/vc_map_icon_carousel.php:23
+#: ../vc_element/vc_map_icon_hor.php:24
+#: ../vc_element/vc_map_icon_how_it_work.php:25
+#: ../vc_element/vc_map_numbers_carousel.php:25
+#: ../vc_element/vc_map_testimonials.php:38
+msgid "No of column."
+msgstr ""
+
+#: ../vc_element/vc_map_coupns.php:37
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../vc_element/vc_map_coupns.php:74
+#: ../vc_element/vc_map_numbers_carousel.php:66
+#: ../vc_element/vc_map_price_box.php:50
+#: ../vc_element/vc_map_service_banner.php:52
+#: ../vc_element/vc_map_service_slider.php:42 ../vc_element/vc_map_team.php:61
+#: ../vc_element/vc_map_testimonials-2.php:40
+#: ../vc_element/vc_map_testimonials.php:68
+msgid "How many Slides to scroll?"
+msgstr ""
+
+#: ../vc_element/vc_map_cus_choose.php:4
+msgid "Customer Choose Us"
+msgstr ""
+
+#: ../vc_element/vc_map_cus_choose.php:15
+#: ../vc_element/vc_map_numbers_carousel.php:171
+#: ../vc_element/vc_map_service_banner.php:142
+#: ../vc_element/vc_map_service_shine.php:144
+msgid "Image"
+msgstr ""
+
+#: ../vc_element/vc_map_cus_choose.php:34 ../vc_element/vc_map_icon_hor.php:38
+msgid "Icon Hax extra class"
+msgstr ""
+
+#: ../vc_element/vc_map_cus_choose.php:59
+#: ../vc_element/vc_map_guarantee_banner.php:18
+#: ../vc_element/vc_map_icon_box.php:150
+#: ../vc_element/vc_map_icon_carousel.php:70
+#: ../vc_element/vc_map_icon_hor.php:70 ../vc_element/vc_map_team.php:155
+msgid "Description"
+msgstr ""
+
+#: ../vc_element/vc_map_discount.php:3
+msgid "Services  Discount"
+msgstr ""
+
+#: ../vc_element/vc_map_discount.php:21
+msgid "Service Discount Items"
+msgstr ""
+
+#: ../vc_element/vc_map_discount.php:79
+msgid "Discount Type"
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:4
+msgid "Cleaning Gallary"
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:12
+msgid "Number of Gallary"
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:15
+msgid "Set how many gallary image will display."
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:20
+msgid "Order By"
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:30
+msgid "Select order type."
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:35
+msgid "Sort Order"
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:38
+msgid "Select sorting order."
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:64 ../vc_element/vc_map_news_slider.php:38
+msgid "How many scroll to show?"
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:96 ../vc_element/vc_map_news_slider.php:70
+msgid "How many Slides to dpeed?"
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:128 ../vc_element/vc_map_icon_box.php:15
+#: ../vc_element/vc_map_service_shine.php:15
+msgid "Icon Thumb box extra class"
+msgstr ""
+
+#: ../vc_element/vc_map_guarantee_banner.php:4
+msgid "Guarantee Banner"
+msgstr ""
+
+#: ../vc_element/vc_map_guarantee_banner.php:11
+msgid "Banner Title"
+msgstr ""
+
+#: ../vc_element/vc_map_guarantee_banner.php:26
+#: ../vc_element/vc_map_team.php:162
+msgid "Picture Of Team Member"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_box.php:4
+msgid "Icon Thumb box"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_box.php:62
+msgid "How many Row in show?"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_box.php:72
+msgid "How many Slides Per Row ?"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_carousel.php:3
+msgid "Icon carousel box"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_carousel.php:38
+msgid "Icon carousel box extra class"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_hor.php:3
+msgid "Icon Hor"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_hor.php:28 ../vc_element/vc_map_news_slider.php:19
+#: ../vc_element/vc_map_price_box.php:14
+#: ../vc_element/vc_map_service_banner.php:16
+msgid "Design Select"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_hor.php:45
+msgid "Icon Hor items"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_how_it_work.php:4
+msgid "Icon How It Works"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_how_it_work.php:29
+msgid "Icon extra class"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_how_it_work.php:60
+msgid "Sub Title"
+msgstr ""
+
+#: ../vc_element/vc_map_news_slider.php:3
+msgid "News Slider"
+msgstr ""
+
+#: ../vc_element/vc_map_news_slider.php:14
+msgid "News Slide Extra Class"
+msgstr ""
+
+#: ../vc_element/vc_map_news_slider.php:104
+msgid "News Slider Items"
+msgstr ""
+
+#: ../vc_element/vc_map_news_slider.php:116
+msgid "Thumbnail Image"
+msgstr ""
+
+#: ../vc_element/vc_map_news_slider.php:136
+msgid "Description text"
+msgstr ""
+
+#: ../vc_element/vc_map_numbers_carousel.php:4
+msgid "Number Carousel"
+msgstr ""
+
+#: ../vc_element/vc_map_numbers_carousel.php:132
+msgid "Number Carousel Items"
+msgstr ""
+
+#: ../vc_element/vc_map_numbers_carousel.php:148
+msgid "Counter Value(must be numeric)"
+msgstr ""
+
+#: ../vc_element/vc_map_numbers_carousel.php:153
+msgid "Symble"
+msgstr ""
+
+#: ../vc_element/vc_map_numbers_carousel.php:158
+msgid "Speed(must be numeric)"
+msgstr ""
+
+#: ../vc_element/vc_map_numbers_carousel.php:174
+#: ../vc_element/vc_map_service_banner.php:145
+#: ../vc_element/vc_map_service_shine.php:147
+msgid "Select image from media library."
+msgstr ""
+
+#: ../vc_element/vc_map_price_box-tab.php:4
+msgid "Price Box Tab Container"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box-tab.php:73
+msgid "Price Box Tab"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box-tab.php:93
+msgid "Price Box Tab Items"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box-tab.php:103
+#: ../vc_element/vc_map_price_box.php:126
+msgid "Title text"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box-tab.php:110
+#: ../vc_element/vc_map_price_box.php:133
+msgid "Price Content"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box-tab.php:117
+#: ../vc_element/vc_map_service_slider.php:154
+msgid "Service List"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box-tab.php:137
+#: ../vc_element/vc_map_price_box.php:157
+msgid "Featured Price"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box.php:3
+msgid "Cleaning Services Price"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box.php:116
+msgid "Cleaning Price Items"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box.php:139
+msgid "Appartment Text"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box.php:145
+msgid "Estimated Text"
+msgstr ""
+
+#: ../vc_element/vc_map_service_banner.php:3
+msgid "Service Grid  Container"
+msgstr ""
+
+#: ../vc_element/vc_map_service_banner.php:4
+msgid "Service Grid Container"
+msgstr ""
+
+#: ../vc_element/vc_map_service_banner.php:84
+#: ../vc_element/vc_map_service_slider.php:74
+#: ../vc_element/vc_map_slickslider.php:41
+#: ../vc_element/vc_map_testimonials-2.php:72
+#: ../vc_element/vc_map_testimonials.php:100
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../vc_element/vc_map_service_banner.php:119
+msgid "Service Grid"
+msgstr ""
+
+#: ../vc_element/vc_map_service_banner.php:120
+msgid "Set banners here"
+msgstr ""
+
+#: ../vc_element/vc_map_service_gallery.php:4
+msgid "Service Gallery"
+msgstr ""
+
+#: ../vc_element/vc_map_service_gallery.php:25
+msgid "Gallery List"
+msgstr ""
+
+#: ../vc_element/vc_map_service_gallery.php:31
+msgid "Tab Image"
+msgstr ""
+
+#: ../vc_element/vc_map_service_gallery.php:50
+msgid "Gallery BG"
+msgstr ""
+
+#: ../vc_element/vc_map_service_shine.php:3
+msgid "Service Bubble"
+msgstr ""
+
+#: ../vc_element/vc_map_service_shine.php:107
+msgid "Service Shine Items"
+msgstr ""
+
+#: ../vc_element/vc_map_service_shine.php:130
+msgid "Position"
+msgstr ""
+
+#: ../vc_element/vc_map_service_slider.php:3
+#: ../vc_element/vc_map_service_slider.php:4
+msgid "Service Slider"
+msgstr ""
+
+#: ../vc_element/vc_map_service_slider.php:16
+msgid "Service Type"
+msgstr ""
+
+#: ../vc_element/vc_map_service_slider.php:110
+msgid "Service Slider Items"
+msgstr ""
+
+#: ../vc_element/vc_map_service_slider.php:126
+msgid "Icon Type"
+msgstr ""
+
+#: ../vc_element/vc_map_service_slider.php:160
+msgid "List Item"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider.php:15
+msgid "Slider Select"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider.php:30
+msgid "Enable autoplay"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider.php:73
+msgid "Enable Fading?"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider.php:84
+msgid "Pause On Hover?"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider.php:95
+msgid "Pause On Dots Hover?"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider.php:108
+msgid "Slick Slider Items"
+msgstr ""
+
+#: ../vc_element/vc_map_team.php:3
+msgid "Team Carousel"
+msgstr ""
+
+#: ../vc_element/vc_map_team.php:24
+msgid "No of column of the team."
+msgstr ""
+
+#: ../vc_element/vc_map_team.php:128
+msgid "Our Team"
+msgstr ""
+
+#: ../vc_element/vc_map_team.php:139
+msgid "Name Of Team Member"
+msgstr ""
+
+#: ../vc_element/vc_map_team.php:147
+msgid "Designation of Team Member"
+msgstr ""
+
+#: ../vc_element/vc_map_team.php:169 ../widgets/smart-contact-box-widget.php:87
+msgid "Facebook"
+msgstr ""
+
+#: ../vc_element/vc_map_team.php:176 ../widgets/smart-contact-box-widget.php:92
+msgid "Twitter"
+msgstr ""
+
+#: ../vc_element/vc_map_team.php:183 ../widgets/smart-contact-box-widget.php:98
+msgid "Instagram"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials-2.php:3
+msgid "Testimonials 2"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials-2.php:106
+msgid "Testimonials Item 2"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials-2.php:117
+#: ../vc_element/vc_map_testimonials.php:145
+msgid "Reviewer Name"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials-2.php:123
+msgid "Reviewer From"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials-2.php:129
+#: ../vc_element/vc_map_testimonials.php:151
+msgid "Review Text"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials-2.php:135
+#: ../vc_element/vc_map_testimonials.php:157
+msgid "Ratting"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials.php:4
+msgid "Cleaning Services Testimonials"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials.php:15
+msgid "Style"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials.php:134
+msgid "Cleaning Services Testimonials Item"
+msgstr ""
+
+#: ../widgets/smart-contact-box-widget.php:9
+msgid "Contacts"
+msgstr ""
+
+#: ../widgets/smart-contact-box-widget.php:28
+msgid "Cleaning Contact Box"
+msgstr ""
+
+#: ../widgets/smart-contact-box-widget.php:30
+msgid "Side Bar Contact Box."
+msgstr ""
+
+#: ../widgets/smart-contact-box-widget.php:45
+msgid "Address Title"
+msgstr ""
+
+#: ../widgets/smart-contact-box-widget.php:55
+msgid "Phone Title"
+msgstr ""
+
+#: ../widgets/smart-contact-box-widget.php:65
+msgid "Hours Title"
+msgstr ""
+
+#: ../widgets/smart-contact-box-widget.php:69
+msgid "Hours"
+msgstr ""
+
+#: ../widgets/smart-contact-box-widget.php:75
+msgid "Social Title"
+msgstr ""
+
+#: ../widgets/smart-contact-box-widget.php:82
+msgid "Googleplus"
+msgstr ""
+
+#: ../widgets/smart-contact-box-widget.php:104
+msgid "Yelp"
+msgstr ""
+
+#: ../widgets/smart-contact-box-widget.php:110
+msgid "LinkedIn"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:9
+msgid "Featured Posts"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:16
+msgid "Cleaning Posts Grid"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:18
+msgid "This widget will display posts grid on sidebars."
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:34
+msgid "Order By:"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:36
+msgid "ID"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:37
+msgid "Date"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:38
+msgid "Comments"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:39
+msgid "Random"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:43
+msgid "Order:"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:45
+msgid "Descending"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:46
+msgid "Ascending"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:51
+msgid "Posts Limit"
+msgstr ""
+
+#: ../widgets/update_wp_custom_menu.php:27
+msgid "Add a Cleaning Services custom menu to your sidebar."
+msgstr ""
+
+#: ../widgets/update_wp_custom_menu.php:30
+msgid "Service Custom Menu"
+msgstr ""
+
+#: ../widgets/update_wp_custom_menu.php:107
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ../widgets/update_wp_custom_menu.php:115
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/update_wp_custom_menu.php:119
+msgid "Select Menu:"
+msgstr ""
+
+#: ../widgets/update_wp_custom_menu.php:121
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../widgets/update_wp_custom_menu.php:137
+msgid "Edit Menu"
+msgstr ""

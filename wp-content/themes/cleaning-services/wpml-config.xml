@@ -1,0 +1,225 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">title</custom-field>
+        <custom-field action="translate">description</custom-field>
+        <custom-field action="translate">keywords</custom-field>
+    </custom-fields>  
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>                
+        <key name="icl_language_switcher_sidebar">0</key>        
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>                
+    </language-switcher-settings>
+   <admin-texts>
+        <key name="cleaning_services_opt">
+            <key name="cleaning_services-page-header-mobile-location" />
+            <key name="cleaning_services-page-header-mobile-phone" />
+            <key name="cleaning_services-page-header-mobile-hour" />
+            <key name="cleaning_services-page-header-mobile-email" />
+            <key name="cleaning_services-header-google-plus" />
+            <key name="cleaning_services-header-google-plus" />
+            <key name="cleaning_services-header-facebook" />
+            <key name="cleaning_services-header-twitter" />
+            <key name="cleaning_services-header-instagram" />
+            <key name="cleaning_services-page-header-slogan" />
+            <key name="cleaning_services-page-header-shedule-header" />
+            <key name="cleaning_services-phone-caption-header" />
+            <key name="cleaning_services-phone-number-header" />
+            <key name="cleaning_services-get-a-quote" />
+            <key name="cleaning_services-quote-url" />
+            <key name="cleaning_services-blog-title" />
+            <key name="cleaning_services-footer_copyright" />
+            <key name="cleaning_services-page-footer-title" />
+            <key name="cleaning_services-phone-caption" />
+            <key name="cleaning_services-phone-number" />
+            <key name="cleaning_services-page-header-shedule" />
+            <key name="cleaning_services-page-email-text" />
+            <key name="cleaning_services-footer-google-plus" />
+            <key name="cleaning_services-footer-facebook" />
+            <key name="cleaning_services-footer-twitter" />
+            <key name="cleaning_services-footer-instagram" />
+        </key>
+    </admin-texts>
+    <shortcodes>
+        <shortcode>
+            <tag>cleaning_sevice_action_button</tag>;
+            <attributes>
+                <attribute>title<attribute>
+                <attribute>icon<attribute>
+                <attribute>call_action<attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>affiliate_office</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>place</attribute>
+                <attribute>location</attribute>
+                <attribute>fax</attribute>
+                <attribute>email</attribute>
+                <attribute encoding="av_link" type="link">google_plus</attribute>
+                <attribute encoding="av_link" type="link">facebook</attribute>
+                <attribute encoding="av_link" type="link">twitter</attribute>
+                <attribute encoding="av_link" type="link">instagram</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_banner_calendar</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>content</attribute>
+                <attribute>location</attribute>
+                <attribute>fax</attribute>
+                <attribute>email</attribute>
+                <attribute>action_title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_counterbox_item</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>count_number</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_cus_choose</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_discount_items</tag>
+            <attributes>
+                <attribute>content</attribute>
+                <attribute>discount_type</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_guarantee_banner</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_icon_box_items</tag>
+            <attributes>
+                <attribute>heading</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_icon_carousel_items</tag>
+            <attributes>
+                <attribute>heading</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_icon_hor_items</tag>
+            <attributes>
+                <attribute>heading</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_how_it_works_items</tag>
+            <attributes>
+                <attribute>number</attribute>
+                <attribute>title</attribute>
+                <attribute>subtitle</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_news_slider_item</tag>
+            <attributes>
+                <attribute>date</attribute>
+                <attribute>title</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_numbers_carousel_items</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_price_item</tag>
+            <attributes>
+                <attribute>title_text</attribute>
+                <attribute>content</attribute>
+                <attribute>appartment_text</attribute>
+                <attribute>estimate_text</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_banner</tag>
+            <attributes>
+                <attribute>heading</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_shine_items</tag>
+            <attributes>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_slick_slider_item</tag>
+            <attributes>
+                <attribute>first_title</attribute>
+                <attribute>second_title</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_services_team</tag>
+            <attributes>
+                <attribute>name</attribute>
+                <attribute>designation</attribute>
+                <attribute>content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>cleaning_testimonials_items</tag>
+            <attributes>
+                <attribute>rev_name</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>
+</wpml-config>
